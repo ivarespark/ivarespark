@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1>Hi! I'm Ivan Espinosa <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🚀</h1>
+<h3>Mobile & Web Developer ⚡</h3>
 
-<!--
-**ivarespark/ivarespark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I am from Peru.
+- I have experience developing software for fishing, sales and financial local companies.
+- I am a fan of art and design.
 
-Here are some ideas to get you started:
+### Technologies
+#### Mobile 
+![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android) ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java) ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Web
+![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular) ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript) ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+
+#### Backend 
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)  ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring)
+
+#### Databases  
+![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle)   ![MySql](https://img.shields.io/badge/-Mysql-333333?style=flat&logo=mysql)  ![MariaDB](https://img.shields.io/badge/-Mariadb-333333?style=flat&logo=mariadb)
