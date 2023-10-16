@@ -1,5 +1,5 @@
-<h1>Hi! I'm Ivan Espinosa <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🚀</h1>
-<h3>Mobile & Web Developer ⚡</h3>
+<h1>Hi! I'm Ivan Espinosa :computer: </h1>
+<h3>Mobile & Web Developer⚡</h3>
 
 - I am from Peru.
 - I have experience developing software for fishing, sales and financial local companies.
